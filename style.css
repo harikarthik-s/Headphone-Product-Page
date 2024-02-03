@@ -9,6 +9,7 @@
 
 html {
     overflow-x: hidden;
+    overflow-y: auto;
 }
 
 img {
@@ -19,7 +20,7 @@ body {
     overflow-x: hidden;
     position: relative;
     font-family: 'Montserrat', sans-serif;
-    height: 100svh;
+    height: 100vh;
 }
 
 a {
